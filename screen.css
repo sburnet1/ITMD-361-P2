@@ -92,6 +92,12 @@ ul {
 li a {
     color: #666;
 }
+
+#resume li {
+
+font:1.424em;
+
+}
 @media only screen and (min-width: 600px) {
 /* tablets */
 
