@@ -114,22 +114,23 @@ background-color: #b3b3b3;
 }
 nav a {
 
-background-color: #b3b3b3;
 color: #fa3a0f;
 text-decoration: none;
 
 }
 
-nav active {
+nav a visited {
 
 background-color: #fa3a0f;
 color: #b3b3b3;
+size: 110%;
 }
 
-nav visited {
+nav a hover {
 
 background-color: #b3b3b3;
 color: #fa3a0f;
+size: 125%;
 
 }
 @media only screen and (min-width: 600px) {
