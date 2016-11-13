@@ -57,7 +57,7 @@ padding: 0.624em;
 }
 
 h3 {
-
+font-size: 1.266em;
 }
 
 h4 {
@@ -96,7 +96,7 @@ li a {
 
 #resume li {
 
-font-size:1.125em;
+font-size:.79em;
 
 }
 @media only screen and (min-width: 600px) {
