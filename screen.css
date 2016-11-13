@@ -43,6 +43,13 @@ background-color:#ff3600  ;
 /* mobile */
 
 
+img
+{ border-width: 5px; 
+  border-color: #f15700;
+  border-style: solid;
+  float: left;
+  margin-left: 1.25em;
+}
 @media only screen and (min-width: 600px) {
 /* tablets */
 
