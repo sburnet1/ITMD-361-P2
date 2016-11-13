@@ -14,7 +14,6 @@ http://www.modularscale.com/?16&px&1.25&web&text
 */
 
 
-
 /* ===== LAYOUT STYLES ===== */
 
 #home {
@@ -40,3 +39,23 @@ background-color:#ff3600  ;
 background-color:#ff3600  ;
 
 }
+
+/* mobile */
+
+
+@media only screen and (min-width: 600px) {
+/* tablets */
+
+
+
+}
+
+@media only screen and (min-width: 768px) {
+/* desktop */
+
+
+
+}
+
+
+
