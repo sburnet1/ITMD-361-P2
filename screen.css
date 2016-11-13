@@ -107,6 +107,13 @@ font-size:.79em;
 line-height: 1.602em;
 
 }
+
+nav {
+
+background-color: #b3b3b3;
+color: #fa3a0f;
+
+}
 @media only screen and (min-width: 600px) {
 /* tablets */
 
