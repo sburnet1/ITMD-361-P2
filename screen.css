@@ -107,7 +107,11 @@ font-size:.79em;
 line-height: 1.602em;
 
 }
+nav {
 
+background-color: #b3b3b3;
+
+}
 nav a {
 
 background-color: #b3b3b3;
