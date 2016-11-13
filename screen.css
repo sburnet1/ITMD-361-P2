@@ -81,6 +81,15 @@ img
   border-style: solid;
   float: center;
 }
+
+ul {
+    border: 1px solid #e7e7e7;
+    background-color: #fa3a0f;
+}
+
+li a {
+    color: #666;
+}
 @media only screen and (min-width: 600px) {
 /* tablets */
 
