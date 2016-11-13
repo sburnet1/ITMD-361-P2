@@ -56,14 +56,15 @@ color: #fa3a0f;
 padding: 0.624em;
 }
 
-h3 {
+#resume h3 {
 font-size: 1.266em;
 padding: .493em;
 }
 
-h4 {
+#resume h4 {
 
 font-size: 1em;
+padding-left: .493em;
 }
 
 h5 {
