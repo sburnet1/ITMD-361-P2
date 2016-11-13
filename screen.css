@@ -84,8 +84,9 @@ img
 
 ul {
     border: 1px solid #e7e7e7;
-    background-color: #fa3a0f;
+    background-color: #b3b3b3;
     padding: .624em;
+    line-height: .493em;
 }
 
 li a {
