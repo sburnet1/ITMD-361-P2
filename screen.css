@@ -97,6 +97,7 @@ li a {
 #resume li {
 
 font-size:.79em;
+line-height: 1em;
 
 }
 @media only screen and (min-width: 600px) {
