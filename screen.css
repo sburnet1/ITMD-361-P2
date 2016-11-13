@@ -114,6 +114,19 @@ background-color: #b3b3b3;
 color: #fa3a0f;
 
 }
+
+nav active {
+
+background-color: #fa3a0f;
+color: #b3b3b3;
+}
+
+nav visited {
+
+background-color: #b3b3b3;
+color: #fa3a0f;
+
+}
 @media only screen and (min-width: 600px) {
 /* tablets */
 
