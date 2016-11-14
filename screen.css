@@ -101,6 +101,7 @@ ul {
     background-color: #b3b3b3;
     padding: .624em;
     line-height: 1.406em;
+    list-style-type: square;
 }
 
 li a {
