@@ -99,7 +99,7 @@ img
 ul {
     border: 1px solid #e7e7e7;
     background-color: #b3b3b3;
-    padding: .624em;
+    padding: .624em 0em .624em 1em;
     line-height: 1.406em;
     list-style-type: square;
 }
