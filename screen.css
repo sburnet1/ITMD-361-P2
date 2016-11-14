@@ -61,17 +61,20 @@ padding: 0.624em;
 font-size: 1.266em;
 padding: .493em;
 color: #111111;
+text-align: center;
 }
 
 #resume h3 {
 font-size: 1.125em;
 padding: .493em;
+text-align: center;
 }
 
 #resume h4 {
 
 font-size: 1em;
 padding-left: .79em;
+text-align: center;
 }
 
 h5 {
