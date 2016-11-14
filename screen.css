@@ -46,7 +46,7 @@ background-color: #e6e6e6 ;
 h1 {
 
 font-size: 1.602em;
-margin: auto;
+text-align: center;
 
 }
 
@@ -79,7 +79,7 @@ h5 {
 font-size: 1.424em;
 color: #fa3a0f;
 padding: 0.624em;
-margin: auto;
+text-align: center;
 }
 
 h6 {
@@ -114,7 +114,7 @@ nav {
 
 background-color: #b3b3b3;
 padding: 1em 0em 1em 0em;
-margin: auto;
+text-align: center;
 
 }
 nav a {
