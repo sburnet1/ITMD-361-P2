@@ -159,7 +159,17 @@ color: #fa3a0f;
 text-decoration: none;
 background-color: #404040;
 padding: .424em;
+
 }
+
+object { 
+  border-width: 10px; 
+  border-color: #404040;
+  border-style: solid;
+  display: block;
+  margin: .424em auto .424em auto;
+}
+
 @media only screen and (min-width: 600px) {
 /* tablets */
 
