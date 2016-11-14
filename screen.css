@@ -92,8 +92,8 @@ h6 {
 }
 
 img
-{ border-width: 5px; 
-  border-color: #111111;
+{ border-width: 10px; 
+  border-color: #404040;
   border-style: solid;
   display: block;
   margin: auto;
