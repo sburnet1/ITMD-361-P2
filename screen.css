@@ -17,74 +17,66 @@ http://www.modularscale.com/?16&px&1.25&web&text
 /* ===== LAYOUT STYLES ===== */
 
 #home {
-
-background-color: #e6e6e6;
-
+  background-color: #e6e6e6;
 }
 
 #resume {
-
-background-color: #e6e6e6
- ;
-
+  background-color: #e6e6e6;
 }
 
 #projects {
-
-background-color: #e6e6e6 ;
-
+  background-color: #e6e6e6 ;
 }
 
 #contact {
-
-background-color: #e6e6e6 ;
-
+  background-color: #e6e6e6 ;
 }
 
-/* mobile */
+               /* mobile */
 
 h1 {
-
-font-size: 1.602em;
-text-align: center;
-padding: 1em 0em 0em 0em;
-
+  font-size: 1.602em;
+  text-align: center;
+  padding: 1em 0em 0em 0em;
+  font-family: "Lucida Console", Monaco, monospace;
 }
 
 h2 {
-
-font-size:1.266em;
-color: #fa3a0f;
-padding: 0.624em;
-text-align: center;
-
+  font-size:1.266em;
+  color: #fa3a0f;
+  padding: 0.624em;
+  text-align: center;
+  font-family: "Lucida Console", Monaco, monospace;
 }
+
 #resume h2 {
-font-size: 1.266em;
-padding: .493em;
-color: #111111;
-text-align: center;
+  font-size: 1.266em;
+  padding: .493em;
+  color: #111111;
+  text-align: center;
+  font-family: "Lucida Console", Monaco, monospace;
 }
 
 #resume h3 {
-font-size: 1.125em;
-padding: .493em;
-text-align: center;
+  font-size: 1.125em;
+  padding: .493em;
+  text-align: center;
+  font-family: "Lucida Console", Monaco, monospace;
 }
 
 #resume h4 {
-
-font-size: 1em;
-padding-left: .79em;
-text-align: center;
+  font-size: 1em;
+  padding-left: .79em;
+  text-align: center;
+  font-family: "Lucida Console", Monaco, monospace;
 }
 
 h5 {
-
-font-size: 1.424em;
-color: #fa3a0f;
-padding: 0.624em;
-text-align: center;
+  font-size: 1.424em;
+  color: #fa3a0f;
+  padding: 0.624em;
+  text-align: center;
+  font-family: "Lucida Console", Monaco, monospace;
 }
 
 
@@ -99,63 +91,54 @@ img
 }
 
 ul {
-    border: 1px solid #e7e7e7;
-    background-color: #b3b3b3;
-    padding: .624em 0em .624em 1em;
-    line-height: 1.406em;
-    list-style-type: square;
+  border: 1px solid #e7e7e7;
+  background-color: #b3b3b3;
+  padding: .624em 0em .624em 1em;
+  line-height: 1.406em;
+  list-style-type: square;
 }
 
 li a {
-    color: #666;
+  color: #666;
+  font-family: "Lucida Console", Monaco, monospace;
 }
 
 #resume li {
-
-font-size:.79em;
-line-height: 1.602em;
-
+  font-size:.79em;
+  line-height: 1.602em;
 }
+
 nav {
-
-background-color: #404040;
-padding: 1em 0em 1em 0em;
-text-align: center;
-
+  background-color: #404040;
+  padding: 1em 0em 1em 0em;
+  text-align: center;
 }
+
 nav a {
-
-color: #fa3a0f;
-text-decoration: none;
-padding: 0em .493em 0em .493em;
-
+  color: #fa3a0f;
+  text-decoration: none;
+  padding: 0em .493em 0em .493em;
 }
 
 nav a visited {
-
-background-color: #fa3a0f;
-color: #b3b3b3;
+  background-color: #fa3a0f;
+  color: #b3b3b3;
 }
 
 nav a hover {
-
-background-color: #b3b3b3;
-color: #fa3a0f;
+  background-color: #b3b3b3;
+  color: #fa3a0f;
 }
 #contact nav a {
-
-color: #fa3a0f;
-text-decoration: none;
-
-
+  color: #fa3a0f;
+  text-decoration: none;
 }
-/*LinkedIn Link on Contact page*/
-#contact h2 a {
-color: #fa3a0f;
-text-decoration: none;
-background-color: #404040;
-padding: .424em;
-
+         /*LinkedIn Link on Contact page*/
+  #contact h2 a {
+  color: #fa3a0f;
+  text-decoration: none;
+  background-color: #404040;
+  padding: .424em;
 }
 
 object { 
@@ -169,67 +152,71 @@ object {
 }
 
 @media only screen and (min-width: 600px) {
-/* tablets */
+            /* tablets */
 
 nav {
-margin:2.027em 0em 2.027em 0em;
-font-size: 1.424em;
-
+  margin:2.027em 0em 2.027em 0em;
+  font-size: 1.424em; 
 }
 
 h1 {
-font-size: 2.266em;
+  font-size: 2.266em;
 }
 
 h2 {
-font-size:2.027em;
+  font-size:2.027em;
 }
 
 img {
-margin: 1em auto 1em auto;
-width:20em;
-height:20em;
-
+  margin: 1em auto 1em auto;
+  width:20em;
+  height:20em;
 }
+
 #resume h2 {
-
-font-size: 2.266em;
+  font-size: 2.266em;
 }
+
 #resume li {
-
-font-size:1.125em;
-margin-left: .79em;
+  font-size:1.125em;
+  margin-left: .79em;
 }
+
 object {
-width:30em;
-height:16em;
-border-width:.79em;
+  width:30em;
+  height:16em;
+  border-width:.79em;
 }
 
 
 @media only screen and (min-width: 1200px) {
-/* desktop */
+            /* desktop */
 h1 {
-font-size: 3.247em;
+  font-size: 3.247em;
 }
+
 h2 {
-font-size: 2.887em;
+  font-size: 2.887em;
 }
+
 img {
-width: 30em;
-height: 30em;
+  width: 30em;
+  height: 30em;
 }
+
 #resume li {
-margin-left: 1.125em;
+  margin-left: 1.125em;
 } 
+
 object {
-width:40em;
-height:20em;
-border-width: 1em;
+  width:40em;
+  height:20em;
+  border-width: 1em;
 }
+
 #contact li {
-margin-left: 1.125em;
-font-size:1.424em;
+  margin-left: 1.125em;
+  font-size:1.424em;
 }}
 
 
