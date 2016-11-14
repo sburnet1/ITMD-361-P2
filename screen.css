@@ -173,7 +173,31 @@ object {
 @media only screen and (min-width: 600px) {
 /* tablets */
 
+nav {
+margin:2.027em 0em 2.027em 0em;
+font-size: 1.424em;
 
+}
+
+h1 {
+font-size: 2.266em;
+}
+
+h2 {
+font-size:2.027em;
+}
+
+img {
+margin: 1em auto 1em auto;
+
+}
+#resume h2 {
+
+font-size: 2.266em;
+}
+#resume li {
+
+font-size:1.125em;}
 
 }
 
