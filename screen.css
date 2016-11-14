@@ -94,7 +94,7 @@ img
 { border-width: 5px; 
   border-color: #111111;
   border-style: solid;
-  float: center;
+  display: center;
 }
 
 ul {
