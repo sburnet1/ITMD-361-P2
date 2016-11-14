@@ -146,6 +146,11 @@ color: #fa3a0f;
 size: 125%;
 
 }
+nav li {
+
+color: #fa3a0f;
+text-decoration: none;
+}
 @media only screen and (min-width: 600px) {
 /* tablets */
 
