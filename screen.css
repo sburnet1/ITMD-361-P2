@@ -170,6 +170,8 @@ object {
   border-style: solid;
   display: block;
   margin: .424em auto .424em auto;
+  width:18em;
+  height:10em;
 }
 
 @media only screen and (min-width: 600px) {
@@ -202,7 +204,10 @@ font-size: 2.266em;
 #resume li {
 
 font-size:1.125em;}
-
+object {
+width:30em;
+height:20em;
+border-width:.79em;
 }
 
 
