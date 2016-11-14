@@ -150,6 +150,15 @@ size: 125%;
 
 color: #fa3a0f;
 text-decoration: none;
+
+
+}
+/*LinkedIn Link on Contact page*/
+#contact h2 a {
+color: #fa3a0f;
+text-decoration: none;
+background-color: #404040;
+padding: .424em;
 }
 @media only screen and (min-width: 600px) {
 /* tablets */
